@@ -1,5 +1,5 @@
 # Pedra_Papel_Tesoura_JSF
-## Atividade desenvolvida academicamente sobre JavaServer Faces (JSF) e PrimeFaces.
+## Atividade desenvolvida sobre JavaServer Faces (JSF) e PrimeFaces.
 
 Utilizando beans gerenciados JSF para o processamento e páginas XHTM para a apresentação e interação com o usuário, faça uma aplicação web para o jogo pedra-papel-tesoura (Jo-Kem-Po). </br> 
 A dinâmica deve ser a seguinte: </br>
